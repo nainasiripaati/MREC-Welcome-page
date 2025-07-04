@@ -1,6 +1,6 @@
 # MREC-Welcome-page
 
-This is a simple front-end project containing login and signup pages built using HTML & CSS.
+This is a simple front-end project containing login and signup pages built using HTML & CSS as a part of my learning journey.
 
 ##  Features:
 - Separate pages for login and signup
